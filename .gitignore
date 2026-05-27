@@ -1,4 +1,4 @@
-# Ignore generated Word documents
+# Ignore all the Word documents
 *.docx
-generate_docx.py
-generate_docx.py
+
+
